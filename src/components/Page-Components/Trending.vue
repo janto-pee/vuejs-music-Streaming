@@ -3,7 +3,7 @@
     class="w-full grid xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 my-8"
   >
     <div class="border border-2 relative hover-lighten">
-      <img src="../../assets/img/page component/Wizkid.jpeg" alt="" />
+      <img src="../../assets/img/page-component/Wizkid.jpeg" alt="" />
       <button
         class="mr-auto absolute bottom-20 right-4 hidden text-color-white"
       >
@@ -15,7 +15,7 @@
       </div>
     </div>
     <div class="border border-2 relative hover-lighten">
-      <img src="../../assets/img/page component/Electricity.jpeg" alt="" />
+      <img src="../../assets/img/page-component/Electricity.jpeg" alt="" />
       <button
         class="mr-auto absolute bottom-20 right-4 hidden text-color-white"
       >
@@ -27,7 +27,7 @@
       </div>
     </div>
     <div class="border border-2 relative hover-lighten">
-      <img src="../../assets/img/page component/Bandana.jpeg" alt="" />
+      <img src="../../assets/img/page-component/Bandana.jpeg" alt="" />
       <button
         class="mr-auto absolute bottom-20 right-4 hidden text-color-white"
       >
@@ -39,7 +39,7 @@
       </div>
     </div>
     <div class="border border-2 relative hover-lighten">
-      <img src="../../assets/img/page component/Call of Duty.jpeg" alt="" />
+      <img src="../../assets/img/page-component/Call-of-Duty.jpeg" alt="" />
       <button
         class="mr-auto absolute bottom-20 right-4 hidden text-color-white"
       >
@@ -51,7 +51,7 @@
       </div>
     </div>
     <div class="border border-2 relative hover-lighten">
-      <img src="../../assets/img/page component/Rush.png" alt="" />
+      <img src="../../assets/img/page-component/Rush.png" alt="" />
       <button
         class="mr-auto absolute bottom-20 right-4 hidden text-color-white"
       >

@@ -4,7 +4,7 @@
       <!-- left -->
       <div class="flex basis-4/6 sm:basis-2/6 gap-2 items-center">
         <img
-          src="{{ currentSong.display_picture }}"
+          :src="currentSong.display_picture"
           alt=""
           class="hidden md:flex w-12 h-12"
         />

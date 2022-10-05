@@ -4,7 +4,7 @@
   >
     <div class="border border-2 relative hover-lighten">
       <img
-        src="../../assets/img/page component/Selah.png"
+        src="../../assets/img/page-component/Selah.png"
         alt=""
         class="w-full"
       />
@@ -21,7 +21,7 @@
 
     <div class="border border-2 relative hover-lighten">
       <img
-        src="../../assets/img/page component/jaywillz.jpeg"
+        src="../../assets/img/page-component/jaywillz.jpeg"
         alt=""
         class="w-full"
       />
@@ -38,7 +38,7 @@
 
     <div class="border border-2 relative hover-lighten">
       <img
-        src="../../assets/img/page component/Burna boy.jpeg"
+        src="../../assets/img/page-component/burna-boy.jpeg"
         alt=""
         class="w-full"
       />
@@ -51,7 +51,7 @@
         <h3 class="text-xl text-color-text font-semibold text-sm">
           Common Person
         </h3>
-        <p class="text-sm text-light-text">Burna Boy</p>
+        <p class="text-sm text-light-text">burna-boy</p>
       </div>
     </div>
   </div>

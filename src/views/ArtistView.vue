@@ -2,7 +2,7 @@
   <div class="gap-6 my-8 grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5 h-full">
     <div class="border border-2 relative p-4 rounded-xl bg-color-light-bg">
       <img
-        src="../../assets/img/people/Adam-Stefancik_avatar-200x200.jpg"
+        src="../assets/img/people/Adam-Stefancik_avatar-200x200.jpg"
         alt=""
         class="rounded-full"
       />
@@ -17,7 +17,7 @@
     </div>
     <div class="border border-2 relative p-4 rounded-xl bg-color-light-bg">
       <img
-        src="../../assets/img/people/Daria-Shevtsova_avatar-200x200.jpg"
+        src="../assets/img/people/Daria-Shevtsova_avatar-200x200.jpg"
         alt=""
         class="rounded-full"
       />
@@ -32,7 +32,7 @@
     </div>
     <div class="border border-2 relative p-4 rounded-xl bg-color-light-bg">
       <img
-        src="../../assets/img/people/Jack-Orison_avatar-200x200.jpg"
+        src="../assets/img/people/Jack-Orison_avatar-200x200.jpg"
         alt=""
         class="rounded-full"
       />
@@ -47,7 +47,7 @@
     </div>
     <div class="border border-2 relative p-4 rounded-xl bg-color-light-bg">
       <img
-        src="../../assets/img/people/Marlene-Leppanen_avatar-200x200.jpg"
+        src="../assets/img/people/Marlene-Leppanen_avatar-200x200.jpg"
         alt=""
         class="rounded-full"
       />
@@ -62,7 +62,7 @@
     </div>
     <div class="border border-2 relative p-4 rounded-xl bg-color-light-bg">
       <img
-        src="../../assets/img/people/Adam-Stefancik_avatar-200x200.jpg"
+        src="../assets/img/people/Adam-Stefancik_avatar-200x200.jpg"
         alt=""
         class="rounded-full"
       />
